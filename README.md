@@ -20,10 +20,10 @@ The BRUCE Engine is a database search function that allows a user to search for 
 
 * [Python== 3.5]  - Language
 
-* [BeautifulSoup==4.4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - The Web Scraping used
-* [requests==2.21](https://docs.python.org/3/library/urllib.html) - The Web Scraping used
-* [urllib==3.7.3](https://docs.python.org/3/library/urllib.html) - The Web Scraping used
-* [tldextract](https://github.com/john-kurkowski/tldextract) - Domain Extractor 
+* [BeautifulSoup==4.4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - The Web Scraping 
+* [requests==2.21](https://docs.python.org/3/library/urllib.html) - The Web Scraping 
+* [urllib==3.7.3](https://docs.python.org/3/library/urllib.html) - The Web Scraping 
+* [tldextract](https://github.com/john-kurkowski/tldextract) - The Web Scraping  -Domain Extractor 
 
 * [textblob](https://textblob.readthedocs.io/en/dev/) - Page Classificatoin- Naive Bayes Algorithm 
 * [Scikit-learn==0.20.3](https://scikit-learn.org/stable/modules/svm.html) - Page Classificatoin- SVM 
