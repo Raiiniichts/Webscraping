@@ -12,11 +12,10 @@ The BRUCE Engine is a database search function that allows a user to search for 
 * [scrarping through School] Conduct DFS scraping given the list of school faculty websites.
 
 ### Page Classification 
-* [Naive Bayes] Feed directly with text corpus, achieved >90% test accuracy. 
-* [SVM] Feed directly with text corpus achieved >95% test accuracy. 
-* [LSTM] Feed directly with text corpus, title, numbers of hyperlinks, numbers of pictures achieved >97% test accuracy. (reference:https://www.linkedin.com/pulse/identifying-clickbaits-using-machine-learning-abhishek-thakur/) 
-
-
+* [Naive Bayes] Feed directly with text corpus, achieved >90% test accuracy (from google search corpus).
+* [SVM] Feed directly with text corpus achieved >95% test accuracy (from google search corpus).
+* [LSTM] Feed directly with text corpus, title, numbers of hyperlinks, numbers of pictures achieved >97% test  accuracy(from google search corpus). (reference:https://www.linkedin.com/pulse/identifying-clickbaits-using-machine-learning-abhishek-thakur/) 
+* Note: the distributioin of the dataset varies a lot depending of the web scraping methods, therefore the testing accuracy might vary. 
 
 ### Feature Extraction 
 
