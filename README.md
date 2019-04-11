@@ -18,7 +18,7 @@ The BRUCE Engine is a database search function that allows a user to search for 
 
 ## Built With
 
-* [Python== 3.5] (https://www.python.org/downloads/) - Language
+* [Python== 3.5]  - Language
 
 * [BeautifulSoup==4.4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - The Web Scraping used
 * [requests==2.21](https://docs.python.org/3/library/urllib.html) - The Web Scraping used
