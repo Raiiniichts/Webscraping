@@ -7,12 +7,23 @@ The BRUCE Engine is a database search function that allows a user to search for 
 
 
 ### Web Scraping
+* [scrarping through google search] Use keywords search to on google and extract hyperlinks on the result page.
+* [scrarping through conference list] Conduct DFS scraping given the list of professors personal websites.
+* [scrarping through School] Conduct DFS scraping given the list of school faculty websites.
 
 ### Page Classification 
+* [Naive Bayes] Feed directly with text corpus, achieved >90% test accuracy. 
+* [SVM] Feed directly with text corpus achieved >95% test accuracy. 
+* [LSTM] Feed directly with text corpus, title, numbers of hyperlinks, numbers of pictures achieved >97% test accuracy. (reference:https://www.linkedin.com/pulse/identifying-clickbaits-using-machine-learning-abhishek-thakur/) 
+
+
 
 ### Feature Extraction 
 
+
 ### Full Stack Development
+
+
 
 
 
