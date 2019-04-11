@@ -52,5 +52,5 @@ For those assuming control of this project in Fall 2019, let Dongwon contact us 
 
 ## Acknowledgments
 
-Thanks to Dongwon Lee for overseeing this project.
+Thanks to Dr.Dongwon Lee for overseeing this project.
 
