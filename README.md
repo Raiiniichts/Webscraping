@@ -18,7 +18,7 @@ The BRUCE Engine is a database search function that allows a user to search for 
 * Note: the distributioin of the dataset varies depending of the web scraping methods, therefore the testing accuracy might change. 
 
 ### Feature Extraction 
-
+* metadata extraction including: Professor names& phone number& email address, school name, course title, year of course.
 
 ### Full Stack Development
 
